@@ -1,8 +1,9 @@
 {
-  "name": "gender-info",
-  "version": "1.0.0",
+  "name": "@nelsonomuto/gender-info",
+  "version": "0.0.1",
   "description": "tell if a name is male/female",
   "main": "index.js",
+  "private": false,
   "repository": "git@github.com:nelsonomuto/gender-info.git",
   "author": "Nelson Omuto <nelsonomuto@gmail.com>",
   "license": "MIT",

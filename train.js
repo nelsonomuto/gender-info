@@ -70,4 +70,7 @@ function test() {
 
 test();
 
-const jsonGenderNeuralNetwork = myNetwork.toJSON();
+const jsonGenderNeuralNetwork = JSON.stringify(myNetwork.toJSON());
+const fs = require('fs');
+
+fs.writeFileSync('./neural-network/jsonGenderNeuralNetwork.json', jsonGenderNeuralNetwork);
