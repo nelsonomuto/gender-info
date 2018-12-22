@@ -1,0 +1,16 @@
+{
+  "name": "gender-info",
+  "version": "1.0.0",
+  "description": "tell if a name is male/female",
+  "main": "index.js",
+  "repository": "git@github.com:nelsonomuto/gender-info.git",
+  "author": "Nelson Omuto <nelsonomuto@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "train": "node train.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "synaptic": "^1.1.4"
+  }
+}
