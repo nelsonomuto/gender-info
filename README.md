@@ -7,7 +7,7 @@ Artificial intelligence via synaptic library.
 ## Getting started
 Install via `npm install @nelsonomuto/gender-info`
 
-Example
+###Server side Example
 ```
 const getGenderInfo =  require('@nelsonomuto/gender-info');
 
@@ -16,5 +16,11 @@ console.log(getGenderInfo('Ben Simmons'));
 
 ```
 
-# Train
+## Client side Example
+TBD
+
+# Local development
+- Use yarn `yarn install`
+
+## Train the algorithm
 Run `yarn train`
