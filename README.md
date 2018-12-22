@@ -9,7 +9,7 @@ Install via `npm install @nelsonomuto/gender-info`
 
 Example
 ```
-import { getGenderInfo } from '@nelsonomuto/gender-info'
+const getGenderInfo =  require('@nelsonomuto/gender-info');
 
 console.log(getGenderInfo('Ben Simmons'));
 // { male: true, female: false, certainty: '76%'}
