@@ -1,6 +1,6 @@
 {
   "name": "@nelsonomuto/gender-info",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "tell if a name is male/female",
   "main": "index.js",
   "private": false,
