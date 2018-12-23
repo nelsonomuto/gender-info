@@ -12,7 +12,8 @@ Determine the gender of a name using javascript api.
 
 Artificial intelligence via synaptic library.
 
-<img width="832" alt="gender-info-test" src="https://user-images.githubusercontent.com/1546207/50370160-b7858380-056f-11e9-95ed-ee5a47093c83.png">
+![gender-info 2018-12-23 09_12_26](https://user-images.githubusercontent.com/1546207/50384473-0972fa00-0693-11e9-9875-64032441f8bf.gif)
+
 
 ## Getting started
 Install via `npm install @nelsonomuto/gender-info`
