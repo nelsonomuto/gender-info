@@ -8,7 +8,8 @@
   "author": "Nelson Omuto <nelsonomuto@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "train": "node train.js"
+    "train": "node train.js",
+    "test": "node test.js"
   },
   "dependencies": {
     "synaptic": "^1.1.4"
